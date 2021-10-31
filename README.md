@@ -1,6 +1,6 @@
-
-<img align="right" height="590em" src="https://user-images.githubusercontent.com/37714863/139561925-f9aeef73-ec88-49d5-a47d-500e06713a18.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gregorio</h1>
+
+<img align='right' src='https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif' width='200'>
 
 - 🔥 Junior Web Developer 
 
