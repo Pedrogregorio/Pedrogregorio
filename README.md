@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**Pedrogregorio/Pedrogregorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/37714863/139561925-f9aeef73-ec88-49d5-a47d-500e06713a18.png"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gregorio</h1>
 
-Here are some ideas to get you started:
+- 🔥 Junior Web Developer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at [Jera](https://github.com/jera)
+
+- ⚡ Fun fact **I prefer tea instead of coffee 😜**
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-323330?style=for-the-badge&flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-323330?style=for-the-badge&flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-323330?style=for-the-badge&flat&logo=git)&nbsp;
+![MySql](https://img.shields.io/badge/-MySql-blue?style=for-the-badge&flat&logo=mysql&logoColor=white)&nbsp;
+![VueJs](https://img.shields.io/badge/-Vuejs-605b55?style=for-the-badge&flat&logo=vue.js)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Pedrogregorio&show_icons=true&theme=vision-friendly-dark" alt="Pedrogregorio's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrogregorio&layout=compact&theme=vision-friendly-dark" alt="Pedrogregorio's most languages"/>
+</p>
