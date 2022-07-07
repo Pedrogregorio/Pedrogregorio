@@ -21,6 +21,7 @@
 ![VueJs](https://img.shields.io/badge/-Vuejs-605b55?style=for-the-badge&flat&logo=vue.js)&nbsp;
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
 <br><br>
 
