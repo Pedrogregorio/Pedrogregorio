@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gregorio</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40">, I'm Gregorio</h1>
 
 <img align='right' src='https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif' width='200'>
 
