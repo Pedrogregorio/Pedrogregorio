@@ -1,12 +1,12 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40">, I'm Gregorio</h1>
+<h1 align="left">Oii, eu sou o Gregorio</h1>
 
 <img align='right' src='https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif' width='200'>
 
-- 🔥 Junior Web Developer 
+- 🔥 Dev Junior
 
-- 🔭 I’m currently working at [Jera](https://github.com/jera)
+- 🔭 Atualemente tabalhando na [Jera](https://github.com/jera)
 
-- ⚡ Fun fact **I prefer tea instead of coffee 😜**
+- ⚡ Fun fact **Gostos mais de chá do que de café 😜**
 
 <br><br>
 
