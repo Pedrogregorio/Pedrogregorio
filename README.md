@@ -6,7 +6,7 @@
 
 - 🔭 Atualemente tabalhando na [Jera](https://github.com/jera)
 
-- ⚡ Fun fact **Gostos mais de chá do que de café 😜**
+- ⚡ Fun fact: **Gostos mais de chá do que de café 😜**
 
 <br><br>
 
