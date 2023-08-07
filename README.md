@@ -1,6 +1,6 @@
 <h1 align="left">Oii, eu sou o Gregorio</h1>
 
-<img align='right' src='https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif' width='200'>
+<img align='right' src='https://gifs.eco.br/wp-content/uploads/2022/08/gifs-com-fundo-transparente-1.gif' width='200'>
 
 - 🔥 Dev Junior
 
