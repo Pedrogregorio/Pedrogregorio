@@ -22,6 +22,7 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=php&logoColor=7A86B)&nbsp;
 
 <br><br>
 
